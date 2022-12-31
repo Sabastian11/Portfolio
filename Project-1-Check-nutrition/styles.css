@@ -1,0 +1,107 @@
+h1{
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+body{
+
+background-color: rgb(39, 39, 39);
+}
+
+.banner-sec{
+text-align: center;
+align-items: center;
+background-color: rgb(90, 90, 90);
+box-shadow: 5px 5px 10px black;
+padding-bottom: 15px;
+
+
+}
+
+.nav-buttons{
+
+background-color: rgb(90, 90, 90);
+
+
+}
+
+.shell{
+
+align-items: center;
+text-align: center;
+
+}
+
+.buttons{
+background-color: blueviolet;
+color: white;
+border: none;
+margin-right: 20px;
+font-size: 15px;
+padding-left: 35px;
+padding-right: 35px;
+padding-bottom: 8px;
+padding-top: 8px;
+margin-bottom: 10px;
+box-shadow: 5px 5px 10px black;
+transition: opacity 0.5s;
+cursor: pointer;
+}
+
+.buttons:hover{
+
+opacity: 0.8;
+}
+
+.buttons:active{
+
+opacity: 0.5;
+}
+
+.head-block{
+
+margin-bottom: 10px;
+}
+
+.nutrition-head{
+
+margin-left: 7px;
+color: white;
+margin-top: 0px;
+font-family: arial;
+text-shadow: 5px 5px 10px black;
+
+}
+
+.pg1-body{
+    margin-top: 10px;
+    box-shadow: 5px 5px 10px black;
+
+}
+
+.home-header{
+
+color: white;
+font-family: arial;
+background-color: rgb(90, 90, 90);
+display: inline-block;
+padding-top: 15px;
+padding-bottom: 15px;
+padding-left: 10px;
+padding-right: 10px;
+box-shadow: 5px 5px 10px black;
+text-shadow: 5px 5px 10px black;
+}
+
+
+.heart-image{
+    padding-bottom: 50px;
+    background-color: rgb(90, 90, 90);
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    border-radius: 20px;
+    margin-bottom: 20px;
+    box-shadow: 5px 5px 10px black;
+}
